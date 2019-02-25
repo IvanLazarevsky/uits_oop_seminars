@@ -32,6 +32,7 @@ public:
 };
 
 
+
 //class Person {
 //public:
 //    string getFirstName();
@@ -106,12 +107,12 @@ Date::Date(int day, Month month, int year)
 //    return getCurrentYear() - birthYear;
 //}
 
-int main() {
-    Date date(31, Month::OCT, 1993);
-    date.setMonth(Month::NOV);
-    date.print();
+//int main() {
+//    Date date(31, Month::OCT, 1993);
+//    date.setMonth(Month::NOV);
+//    date.print();
 
-    return 0;
-}
+//    return 0;
+//}
 
 

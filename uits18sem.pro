@@ -4,5 +4,7 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp \
-    second.cpp
+    sem1live1811.cpp \
+    sem2inheritace1810.cpp \
+    sem2inheritance1811.cpp \
+    sem1live1810.cpp
