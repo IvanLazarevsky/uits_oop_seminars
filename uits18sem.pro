@@ -7,4 +7,5 @@ SOURCES += \
     sem1live1811.cpp \
     sem2inheritace1810.cpp \
     sem2inheritance1811.cpp \
-    sem1live1810.cpp
+    sem1live1810.cpp \
+    sem3matrix.cpp
